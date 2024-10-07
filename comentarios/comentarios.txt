@@ -17,6 +17,7 @@ composer require vlucas/phpdotenv
 composer install
 -------------------------------------------
 
+
 Si en el proyecto del profe esta creado el ficgero .gitignore  donde se indica de excluir para subir a github las carpetas vendor  node-modules y el fichero coposer.ock
 
 entonces para proximas veces que me baje la actualizacion solo tendre que hacer en la consola lo siguiente
