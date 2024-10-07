@@ -1,0 +1,60 @@
+{
+    "global":{
+        "url0Text": "Home",
+
+        "url1":"web-services",
+        "url1Text": "Web Services",
+
+        "url2":"contact",
+        "url2Text": "Contact",
+        
+        "url3":"success-stories",
+        "url3Text": "Success Stories"
+    },
+    "inicio": {
+        "title": "WEBDA | Digital solutions for businesses",
+        "description": "Digital solutions for businesses: native web development, SEO positioning, SEM campaigns, digital marketing, and corporate image.",
+        "h1": "Digital solutions for businesses",
+        "txt1":"Hi header h2",
+        "boton1":"More Info",
+        "txt_02":"Versión del loren en INGLES",
+        "txt_03":"Versión del loren en INGLES"
+    },
+    "seo-positioning": {
+        "title": "SEO POSITIONING",
+        "description": "The best SEO positioning for your website or application. We are professionals in organic web positioning.",
+        "h1": "This is the SEO positioning h1"
+    },
+    "multiplatform-applications": {
+        "title": "MULTIPLATFORM APPLICATION DEVELOPMENT",
+        "description": "We develop multiplatform mobile applications. Whatever you need, we make it happen.",
+        "h1": "This is the h1 for MULTIPLATFORM APPS"
+    },
+    "native-web-development": {
+        "title": "NATIVE WEB DEVELOPMENT AND WORDPRESS",
+        "description": "We offer native web development services and WordPress (CMS). Native development means websites with more capacity and performance. We meet all your needs."
+    },
+    "corporate-image-design": {
+        "title": "CORPORATE IMAGE DESIGN",
+        "description": "We offer various graphic design services"
+    },
+    "digital-marketing-rrss-sem": {
+        "title": "DIGITAL MARKETING, SOCIAL MEDIA, AND SEM CAMPAIGNS",
+        "description": "We manage your SEM campaign, social media, and corporate marketing to reach all your target customers."
+    },    
+    "web-services": {
+        "title": "Application and digital services development for businesses",
+        "description": "Digital services for businesses: web development, SEO positioning, marketing campaigns, corporate design, and multiplatform applications"
+    },
+    "contact": {
+        "title": "Contact us to create your website",
+        "description": "All services, locations, related to contact",
+        "h1": "CONTACT US"
+    },
+    "success-cases": {
+        "title": "Success cases in web development, SEO, and corporate design",
+        "description": "Discover our clients' projects",
+        "h1": "SUCCESS CASES"
+    }
+
+}

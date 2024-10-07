@@ -1,0 +1,60 @@
+{    
+    "global":{
+        "url0Text": "Inicio",
+
+        "url1":"servicios-web",
+        "url1Text": "Servicios Web",
+
+        "url2":"contactar",
+        "url2Text": "Contacto",
+        
+        "url3":"casos-de-exito",
+        "url3Text": "Casos de Éxito"
+    },
+    "inicio":{
+        "title": "WEBDA | Soluciones digitales para empresas",
+        "description":"Soluciones digitales para empresas: desarrollo nativo web, posicionamiento SEO, campañas SEM, marketing digital e imagen corporativa.",
+        "h1":"Soluciones digitales para empresa",
+        "txt1":"Encabezado h2 hola",
+        "boton1":"Más Info",
+        "txt_02":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae consequuntur consequatur minus ratione, excepturi magnam rem beatae quis",
+        "txt_03":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis in ipsam at minima necessitatibus sapiente sequi dicta nam magnam blanditiis."
+    },
+    "posicionamiento-seo":{
+        "title": "POSICIONAMIENTO SEO",
+        "description":"El mejor posicionamiento SEO para tu web o aplicación. Somos profesionales en posicionamiento web orgánico.",
+        "h1": "Este es el h1 de posicionamiento SEO"
+    },
+    "aplicaciones-multiplataforma":{
+        "title":"DESARROLLO DE APLICACIONES MULTIPLATAFORMA",
+        "description":"Desarrollamos aplicaciones móviles multiplataforma. Qué necesitas, nosotros lo hacemos.",
+        "h1": "Este es el h1 de APP MULTIPLATAFORMAS"
+    },
+    "desarrollo-web-nativo":{
+        "title":"DESARROLLO WEB NATIVO Y WORDPRESS",
+        "description":"Ofrecemos los servicios de desarrollo web nativo y en wordpress (CMS). El desarrollo natiuvo implica webs con más capacidad y rendimiento. Llegamos allí donde llegue tu necesidad."
+    },
+    "diseño-imagen-corporativa":{
+        "title":"DISEÑO IMAGEN CORPORATIVA CORPORATIVO",
+        "description":"Ofrecemos diferentes servicios de diseño gráfico"
+    },
+    "marketing-rrss-sem":{
+        "title":"MARKETING DIGITAL, RRSS Y CAMPAÑAS SEM",
+        "description":"Ofrecemos llevar tu campaña SEM, redes sociales y marketing corporativo para llevar tu empresa al conocimiento de todos tus clientes objetivo."
+    },
+    "servicios-web":{
+        "title":"Desarrollo de aplicaciones y servicios digitales para empresas",
+        "description":"Servicios digitales para empresa: web, posicionamiento SEO, campañas marketing, diseño corporativo, aplicaciones multiplataforma"
+    },
+    "contactar":{
+        "title":"Contacta con nosotr@s para hacer tu página web",
+        "description":"Todos los servicios, localidades, relacionado con el contacto",
+        "h1": "CONTACTA CON NOSOTR@S"
+    },
+    "casos-de-exito":{
+        "title":"Casos de éxito en desarrollo web, seo y diseño corporativo",
+        "description":"Descubre los proyectos de nuestros clientes",
+        "h1": "CASOS DE ÉXITO"
+    }
+
+}

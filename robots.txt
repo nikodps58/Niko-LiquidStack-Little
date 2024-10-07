@@ -1,0 +1,7 @@
+Sitemap: https://webda.eus/sitemap.xml
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /php
+Disallow: /vendor
+Disallow: /node_modules
+Disallow: /config

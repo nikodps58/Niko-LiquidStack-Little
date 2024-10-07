@@ -1,0 +1,33 @@
+Para activar localhost a puerto 3000
+en la consola de VSC teclear: php -S localhost:3000
+-------------------------------------------
+
+0. Si se esta usando el entorno env para las variables globales  cuando se baja el proyecto del profe como trae sus dependencias habra que borrar
+- carpeta composer
+- los archivos composer.json y composer.lock
+y despues volver a generarlos con estos comandos
+
+1. Antes de instalar composer
+en la consola teclear
+composer require vlucas/phpdotenv
+
+( vlucas es el componente para VSC que sirve para las variables de entorno
+
+2. luego instalamos el COMPOSER
+composer install
+-------------------------------------------
+
+Si en el proyecto del profe esta creado el ficgero .gitignore  donde se indica de excluir para subir a github las carpetas vendor  node-modules y el fichero coposer.ock
+
+entonces para proximas veces que me baje la actualizacion solo tendre que hacer en la consola lo siguiente
+-  composer update  (que esta actualizara las dependencias a mi ruta de mi proyecto local)
+-  npm i  que actualizara el node-modules 
+	
+
+existe el "composer update"  para actualizar el composer
+-----------------------------------------
+
+Preguntas
+1. sino funciona el npm i  (¿es que no esta instaldo el node-modules?  ¿como se instala?
+2. ¿El fichero composer.json se crea solo ó lo creas tu?
+3. ¿El fichero package.json se crea solo?  Es que como veo que tiene el grupo "dependencias"  escrito en castalleano me llama la atencion
