@@ -29,7 +29,6 @@ if(isset($arrayRutas[$url])){
 
     //----VISTA----------
     require_once $arrayRutas[$url];
-
 }else{
     //----VISTA----------
     require './php/vistas/404.php'; 
