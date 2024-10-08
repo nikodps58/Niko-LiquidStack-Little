@@ -27,8 +27,13 @@ entonces para proximas veces que me baje la actualizacion solo tendre que hacer 
 
 existe el "composer update"  para actualizar el composer
 -----------------------------------------
+pasos para añdir un idioma (por ejemplo frances)
+en config.languajes añadir un fr.json para ese idionma
+en config.langs añadir fr al array de idiomas
+en rutas php añadir las rutas del frances
+
+-----
 
 Preguntas
-1. sino funciona el npm i  (¿es que no esta instaldo el node-modules?  ¿como se instala?
 2. ¿El fichero composer.json se crea solo ó lo creas tu?
 3. ¿El fichero package.json se crea solo?  Es que como veo que tiene el grupo "dependencias"  escrito en castalleano me llama la atencion

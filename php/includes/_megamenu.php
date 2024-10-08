@@ -15,33 +15,55 @@
                     <div class="submenu">
                         <ul>
                             <li>
-                                <a href="<?=$_ENV['RAIZ']."/".$lang?>/servicios-web/desarrollo-web-nativo">
+                                <!-- <a href="<?=$_ENV['RAIZ']."/".$lang?>/servicios-web/desarrollo-web-nativo">
                                     <img src="<?=$_ENV['RAIZ']?>/assets/img/chevron-forward-outline.svg" alt="">
-                                    <span>Desarrollo web nativo y CMS</span>
+                                    <span>Desarollo web nativo</span>
+                                </a> -->
+                                <a href="<?=$_ENV['RAIZ']."/".$lang."/".$url1a?>">
+                                    <img src="<?=$_ENV['RAIZ']?>/assets/img/chevron-forward-outline.svg" alt="">
+                                    <span><?=$url1atext?></span>
                                 </a>
+                      
+                                
                             </li>
                             <li>
-                                <a href="<?=$_ENV['RAIZ']."/".$lang?>/servicios-web/aplicaciones-multiplataforma">
+                                <!-- <a href="<?=$_ENV['RAIZ']."/".$lang?>/servicios-web/aplicaciones-multiplataforma">
                                     <img src="<?=$_ENV['RAIZ']?>/assets/img/chevron-forward-outline.svg" alt="">
                                     <span>Aplicaciones multiplataforma</span>
+                                </a> -->
+                                <a href="<?=$_ENV['RAIZ']."/".$lang."/".$url1b?>">
+                                    <img src="<?=$_ENV['RAIZ']?>/assets/img/chevron-forward-outline.svg" alt="">
+                                    <span><?=$url1btext?></span>
                                 </a>
                             </li>
                             <li>
-                                <a href="<?=$_ENV['RAIZ']."/".$lang?>/servicios-web/posicionamiento-seo">
+                                <!-- <a href="<?=$_ENV['RAIZ']."/".$lang?>/servicios-web/posicionamiento-seo">
                                     <img src="<?=$_ENV['RAIZ']?>/assets/img/chevron-forward-outline.svg" alt="">
                                     <span>Posicionamiento SEO</span>
+                                </a> -->
+                                <a href="<?=$_ENV['RAIZ']."/".$lang."/".$url1c?>">
+                                    <img src="<?=$_ENV['RAIZ']?>/assets/img/chevron-forward-outline.svg" alt="">
+                                    <span><?=$url1ctext?></span>
                                 </a>
                             </li>
                             <li>
-                                <a href="<?=$_ENV['RAIZ']."/".$lang?>/servicios-web/marketing-rrss-sem">
+                                <!-- <a href="<?=$_ENV['RAIZ']."/".$lang?>/servicios-web/marketing-rrss-sem">
                                     <img src="<?=$_ENV['RAIZ']?>/assets/img/chevron-forward-outline.svg" alt="">
                                     <span>Marketing SEM y RRSS</span>
+                                </a> -->
+                                <a href="<?=$_ENV['RAIZ']."/".$lang."/".$url1d?>">
+                                    <img src="<?=$_ENV['RAIZ']?>/assets/img/chevron-forward-outline.svg" alt="">
+                                    <span><?=$url1dtext?></span>
                                 </a>
                             </li>
                             <li>
-                                <a href="<?=$_ENV['RAIZ']."/".$lang?>/servicios-web/diseño-imagen-corporativa">
+                                <!-- <a href="<?=$_ENV['RAIZ']."/".$lang?>/servicios-web/diseño-imagen-corporativa">
                                     <img src="<?=$_ENV['RAIZ']?>/assets/img/chevron-forward-outline.svg" alt="">
                                     <span>Diseño gráfico corporativo</span>
+                                </a> -->
+                                <a href="<?=$_ENV['RAIZ']."/".$lang."/".$url1e?>">
+                                    <img src="<?=$_ENV['RAIZ']?>/assets/img/chevron-forward-outline.svg" alt="">
+                                    <span><?=$url1etext?></span>
                                 </a>
                             </li>
                         </ul>
@@ -130,6 +152,7 @@
             <li><a href="<?=$_ENV['RAIZ']."/es"?>" hreflang="es" id="es" class="btn_idioma">ES</a></li>
             <li><a href="<?=$_ENV['RAIZ']."/eu"?>" hreflang="eu" id="eu" class="btn_idioma">EU</a></li>
             <li><a href="<?=$_ENV['RAIZ']."/en"?>" hreflang="en" id="en" class="btn_idioma">EN</a></li>
+            <li><a href="<?=$_ENV['RAIZ']."/fr"?>" hreflang="en" id="en" class="btn_idioma">FR</a></li>
         </ul>
     </div>
 </div>

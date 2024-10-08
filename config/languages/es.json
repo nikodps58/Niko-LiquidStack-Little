@@ -4,6 +4,16 @@
 
         "url1":"servicios-web",
         "url1Text": "Servicios Web",
+        "url1a": "servicios-web/posicionamiento-seo",
+        "url1atext": "Posicionamiento SEO",
+        "url1b": "servicios-web/aplicaciones-multiplataforma",
+        "url1btext": "Aplicaciones Multiplataforma",
+        "url1c": "servicios-web/desarrollo-web-nativo",
+        "url1ctext": "Desarrollo Web nativo",
+        "url1d": "servicios-web/diseño-imagen-corporativa",
+        "url1dtext": "Diseño Imagen Corporativa",
+        "url1e": "servicios-web/marketing-rrss-sem",
+        "url1etext": "Marketing RRSS SEM",
 
         "url2":"contactar",
         "url2Text": "Contacto",
@@ -29,22 +39,27 @@
         "title":"DESARROLLO DE APLICACIONES MULTIPLATAFORMA",
         "description":"Desarrollamos aplicaciones móviles multiplataforma. Qué necesitas, nosotros lo hacemos.",
         "h1": "Este es el h1 de APP MULTIPLATAFORMAS"
+        
     },
     "desarrollo-web-nativo":{
         "title":"DESARROLLO WEB NATIVO Y WORDPRESS",
         "description":"Ofrecemos los servicios de desarrollo web nativo y en wordpress (CMS). El desarrollo natiuvo implica webs con más capacidad y rendimiento. Llegamos allí donde llegue tu necesidad."
+        
     },
     "diseño-imagen-corporativa":{
         "title":"DISEÑO IMAGEN CORPORATIVA CORPORATIVO",
         "description":"Ofrecemos diferentes servicios de diseño gráfico"
+        
     },
     "marketing-rrss-sem":{
         "title":"MARKETING DIGITAL, RRSS Y CAMPAÑAS SEM",
         "description":"Ofrecemos llevar tu campaña SEM, redes sociales y marketing corporativo para llevar tu empresa al conocimiento de todos tus clientes objetivo."
+        
     },
     "servicios-web":{
         "title":"Desarrollo de aplicaciones y servicios digitales para empresas",
         "description":"Servicios digitales para empresa: web, posicionamiento SEO, campañas marketing, diseño corporativo, aplicaciones multiplataforma"
+        
     },
     "contactar":{
         "title":"Contacta con nosotr@s para hacer tu página web",

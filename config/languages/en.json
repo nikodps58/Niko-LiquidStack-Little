@@ -5,11 +5,24 @@
         "url1":"web-services",
         "url1Text": "Web Services",
 
+        "url1a": "web-services/seo-positioning",
+        "url1atext": "SEO Positioning",
+        "url1b": "web-services/multiplatform-applications",
+        "url1btext": "Multiplatform Applications",
+        "url1c": "web-services/native-web-development",
+        "url1ctext": "Native Web Development",
+        "url1d": "web-services/corporate-image-design",
+        "url1dtext": "Corporate image design",
+        "url1e": "web-services/digital-marketing-rrss-sem",
+        "url1etext": "Marketing RRSS SEM",
+
         "url2":"contact",
         "url2Text": "Contact",
         
         "url3":"success-stories",
         "url3Text": "Success Stories"
+        
+        
     },
     "inicio": {
         "title": "WEBDA | Digital solutions for businesses",

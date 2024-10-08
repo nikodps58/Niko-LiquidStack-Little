@@ -5,6 +5,17 @@
         "url1":"web-zerbitzuak",
         "url1Text": "Web Zerbitzuak",
 
+        "url1a": "web-zerbitzuak/seo-posizionamendua",
+        "url1atext": "SEO Posizionamendua",
+        "url1b": "web-zerbitzuak/aplikazio-multiplataforma",
+        "url1btext": "Aplikazio Multiplataforma",
+        "url1c": "web-zerbitzuak/web-garapena-natiboa",
+        "url1ctext": "Web garapena natiboa",
+        "url1d": "web-zerbitzuak/irudi-korporatibo-diseinua",
+        "url1dtext": "Irudi korporatibo diseinua",
+        "url1e": "web-zerbitzuak/marketina-rrss-sem",
+        "url1etext": "Marketina RRSS-SEM",
+
         "url2":"kontaktatu",
         "url2Text": "Kontaktatu",
         

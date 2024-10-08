@@ -340,6 +340,7 @@ footer{
     background: config.$color01;
     background: linear-gradient(0deg, config.$color01bis 0%, config.$color01 100%);
     .megamenu{
+        pointer-events: initial;
         height: 100%;
         opacity: 1;
         overflow: scroll;
@@ -353,6 +354,9 @@ footer{
         }
         &::-webkit-scrollbar {
             display: none;
+        }
+        .idiomas{
+            display:none
         }
     }
     >:nth-child(3){
