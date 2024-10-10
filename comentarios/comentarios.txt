@@ -31,6 +31,7 @@ pasos para añdir un idioma (por ejemplo frances)
 en config.languajes añadir un fr.json para ese idionma
 en config.langs añadir fr al array de idiomas
 en rutas php añadir las rutas del frances
+en php includes megamenu añadir el idioma
 
 -----
 
