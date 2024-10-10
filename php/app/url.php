@@ -24,7 +24,6 @@ if(!isset($_COOKIE['lang'])){
     $lang = $_COOKIE["lang"]; //cogemos la cookie desde php de lang
 }
 
-
 //Obtenemos la url entera desde la raiz del dominio
 $url = urldecode($_SERVER["REQUEST_URI"]) ?? "/$lang";
 $url = ($url ==="/") ? "/$lang" : rtrim($url,"/");

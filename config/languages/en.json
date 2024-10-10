@@ -69,5 +69,9 @@
         "description": "Discover our clients' projects",
         "h1": "SUCCESS CASES"
     }
+ "thx-for-your-register":{
+        "h1":"Thx for your register"
+    }
+
 
 }

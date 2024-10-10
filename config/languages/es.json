@@ -71,5 +71,10 @@
         "description":"Descubre los proyectos de nuestros clientes",
         "h1": "CASOS DE ÉXITO"
     }
+"gracias-por-tu-registro":{
+        "title": "WEBDA | Soluciones digitales para empresas",
+        "description":"Soluciones digitales para empresas: desarrollo nativo web, posicionamiento SEO, campañas SEM, marketing digital e imagen corporativa.",
+        "h1":"Gracias por tu registro"
+    }
 
 }
